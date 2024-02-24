@@ -1,0 +1,7 @@
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\bin\Debug\CümledekiKelimeSayısı.exe.config
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\bin\Debug\CümledekiKelimeSayısı.exe
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\bin\Debug\CümledekiKelimeSayısı.pdb
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\obj\Debug\CümledekiKelimeSayısı.csproj.AssemblyReference.cache
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\obj\Debug\CümledekiKelimeSayısı.csproj.CoreCompileInputs.cache
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\obj\Debug\CümledekiKelimeSayısı.exe
+C:\MyCodes\BasicProblems\CümledekiKelimeSayısı\CümledekiKelimeSayısı\obj\Debug\CümledekiKelimeSayısı.pdb
