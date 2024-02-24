@@ -1,0 +1,7 @@
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\bin\Debug\AsalSayıKontrol.exe.config
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\bin\Debug\AsalSayıKontrol.exe
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\bin\Debug\AsalSayıKontrol.pdb
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\obj\Debug\AsalSayıKontrol.csproj.AssemblyReference.cache
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\obj\Debug\AsalSayıKontrol.csproj.CoreCompileInputs.cache
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\obj\Debug\AsalSayıKontrol.exe
+C:\MyCodes\BasicProblems\AsalSayıKontrol\AsalSayıKontrol\obj\Debug\AsalSayıKontrol.pdb

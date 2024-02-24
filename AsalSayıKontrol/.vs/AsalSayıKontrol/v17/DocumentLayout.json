@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyCodes\\BasicProblems\\AsalSay\u0131Kontrol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C63C52-BA08-433A-AC0C-DF2F9D4FC8AE}|AsalSay\u0131Kontrol\\AsalSay\u0131Kontrol.csproj|c:\\mycodes\\basicproblems\\asalsay\u0131kontrol\\asalsay\u0131kontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C63C52-BA08-433A-AC0C-DF2F9D4FC8AE}|AsalSay\u0131Kontrol\\AsalSay\u0131Kontrol.csproj|solutionrelative:asalsay\u0131kontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyCodes\\BasicProblems\\AsalSay\u0131Kontrol\\AsalSay\u0131Kontrol\\Program.cs",
+              "RelativeDocumentMoniker": "AsalSay\u0131Kontrol\\Program.cs",
+              "ToolTip": "C:\\MyCodes\\BasicProblems\\AsalSay\u0131Kontrol\\AsalSay\u0131Kontrol\\Program.cs",
+              "RelativeToolTip": "AsalSay\u0131Kontrol\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:41:45.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
