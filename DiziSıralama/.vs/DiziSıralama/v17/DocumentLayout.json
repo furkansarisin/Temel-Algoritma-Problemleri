@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyCodes\\BasicProblems\\DiziS\u0131ralama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E9002F-930C-4B52-AE28-FBDAD33E46D5}|DiziS\u0131ralama\\DiziS\u0131ralama.csproj|c:\\mycodes\\basicproblems\\dizis\u0131ralama\\dizis\u0131ralama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E9002F-930C-4B52-AE28-FBDAD33E46D5}|DiziS\u0131ralama\\DiziS\u0131ralama.csproj|solutionrelative:dizis\u0131ralama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyCodes\\BasicProblems\\DiziS\u0131ralama\\DiziS\u0131ralama\\Program.cs",
+              "RelativeDocumentMoniker": "DiziS\u0131ralama\\Program.cs",
+              "ToolTip": "C:\\MyCodes\\BasicProblems\\DiziS\u0131ralama\\DiziS\u0131ralama\\Program.cs*",
+              "RelativeToolTip": "DiziS\u0131ralama\\Program.cs*",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:40:42.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

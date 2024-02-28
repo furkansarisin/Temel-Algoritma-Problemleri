@@ -1,0 +1,7 @@
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\bin\Debug\DiziSıralama.exe.config
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\bin\Debug\DiziSıralama.exe
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\bin\Debug\DiziSıralama.pdb
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\obj\Debug\DiziSıralama.csproj.AssemblyReference.cache
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\obj\Debug\DiziSıralama.csproj.CoreCompileInputs.cache
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\obj\Debug\DiziSıralama.exe
+C:\MyCodes\BasicProblems\DiziSıralama\DiziSıralama\obj\Debug\DiziSıralama.pdb
