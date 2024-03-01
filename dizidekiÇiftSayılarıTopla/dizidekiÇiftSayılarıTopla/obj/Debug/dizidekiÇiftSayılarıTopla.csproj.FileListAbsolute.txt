@@ -1,0 +1,7 @@
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\bin\Debug\dizidekiÇiftSayılarıTopla.exe.config
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\bin\Debug\dizidekiÇiftSayılarıTopla.exe
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\bin\Debug\dizidekiÇiftSayılarıTopla.pdb
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\obj\Debug\dizidekiÇiftSayılarıTopla.csproj.AssemblyReference.cache
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\obj\Debug\dizidekiÇiftSayılarıTopla.csproj.CoreCompileInputs.cache
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\obj\Debug\dizidekiÇiftSayılarıTopla.exe
+C:\MyCodes\BasicProblems\dizidekiÇiftSayılarıTopla\dizidekiÇiftSayılarıTopla\obj\Debug\dizidekiÇiftSayılarıTopla.pdb
